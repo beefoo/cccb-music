@@ -45,10 +45,10 @@ print "Read %s years" % yearCount
 secondsPerYear = 1.0 * DURATION / yearCount
 
 # G
-# Bf / As
+# Bb
 # D
 #
-# Bf / As
+# Bb
 # D
 # F
 #
@@ -56,6 +56,6 @@ secondsPerYear = 1.0 * DURATION / yearCount
 # F
 # A
 #
-# Ef / Ds
+# Eb
 # G
-# Bf / As
+# Bb
